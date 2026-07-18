@@ -94,7 +94,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=400&lines=Apedendendo%20novas%20tecnologias%20%E2%9A%A1" alt="Learning" />
 
-<br><br>
+<br><br> 
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2B6CB0" alt="SQL" />
 
@@ -116,7 +116,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=600&lines=Os%20meus%20principais%20projetos%20estar%C3%A3o%20dispon%C3%ADveis%20abaixo%20%E2%9C%A8" alt="Projetos" />
 
 <br>
-<!-- Exemplo de card de projeto (substitua o nome do repo) -->
+
 
 </div>
 
