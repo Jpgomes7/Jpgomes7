@@ -118,22 +118,6 @@
 <br>
 <!-- Exemplo de card de projeto (substitua o nome do repo) -->
 
-<a href="https://github.com/joaopaulogs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopaulogs&repo=REPOSITORIO_1&theme=tokyonight&title_color=2B6CB0&icon_color=90CDF4&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Projeto 1" />
-</a>
-
-<a href="https://github.com/joaopaulogs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopaulogs&repo=REPOSITORIO_2&theme=tokyonight&title_color=2B6CB0&icon_color=90CDF4&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Projeto 2" />
-</a>
-
-<a href="https://github.com/joaopaulogs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopaulogs&repo=REPOSITORIO_3&theme=tokyonight&title_color=2B6CB0&icon_color=90CDF4&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Projeto 3" />
-</a>
-
-<a href="https://github.com/joaopaulogs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopaulogs&repo=REPOSITORIO_4&theme=tokyonight&title_color=2B6CB0&icon_color=90CDF4&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Projeto 4" />
-</a>
-
 </div>
 
 ---
