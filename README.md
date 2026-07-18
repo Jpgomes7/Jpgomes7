@@ -55,7 +55,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=400&lines=Tecnologias%20que%20domino%20%E2%9C%A8" alt="Techs" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=400&lines=Tecnologias%20que%20tenho noções%20%E2%9C%A8" alt="Techs" />
 
 <br><br>
 
@@ -113,8 +113,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=600&lines=Os%20meus%20principais%20projetos%20estar%C3%A3o%20dispon%C3%ADveis%20abaixo%20%E2%9C%A8" alt="Projetos" />
-
+<img src="https://readme-typing-svg.herokuapp.com?
 <br>
 
 
