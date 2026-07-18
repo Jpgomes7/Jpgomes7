@@ -92,7 +92,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=400&lines=Apedendendo%20novas%20tecnologias%20%E2%9A%A1" alt="Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=400&lines=Apredendendo%20novas%20tecnologias%20%E2%9A%A1" alt="Learning" />
 
 <br><br> 
 
