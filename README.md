@@ -1,44 +1,337 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is João Paulo and I'm a data engineer, from Brasil!</h2>
+<!-- Cabecalho com Wave Animation e Banner -->
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/master/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b6cb0,100:90cdf4&height=180&section=header&text=Ol%C3%A1!%20Eu%20sou%20Jo%C3%A3o%20Paulo%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="Banner" width="100%" />
 
 </div>
 
-###
+<!-- Typing SVG -->
+<div align="center">
 
-<div data-importer="socials" align="left">
-  <a href=https://www.instagram.com/jp.gmss/ target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  
-  <a href=mailto:sjpgomess2@gmail.com target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  
-  <a href=www.linkedin.com/in/joãopaulogs target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=900&lines=Analista%20de%20Dados%20%F0%9F%93%8A;Desenvolvedor%20em%20Forma%C3%A7%C3%A3o%20%F0%9F%92%BB;Brasil%20%F0%9F%87%A7%F0%9F%87%B7;Apaixonado%20por%20Tecnologia%20%E2%9A%A1" alt="Typing SVG" />
+
 </div>
 
-###
+---
 
-<img data-importer="image" align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2dvN2RzZXJzZzRyenpwM2Q4ZjZpeGY4ODEyN2lwNWszNDE3YTh2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" />
+<!-- Sobre Mim -->
+<div align="center">
 
-###
+## 👨‍💻 Sobre Mim
 
-<br clear="both">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=700&lines=Ol%C3%A1!%20Sou%20Jo%C3%A3o%20Paulo%20%F0%9F%91%8B" alt="Hello" />
 
-###
+</div>
+
+<div align="center">
+
+<br>
+
+<p>
+🔹 Apaixonado por tecnologia, acreditando no seu poder de transformar ideias e impacto real na sociedade.<br><br>
+🔹 Sempre em constante estudo de novas tecnologias, buscando me manter atualizado com tendências do mercado.<br><br>
+🔹 Tenho interesse em <b>Desenvolvimento Web</b>, <b>Análise de Dados</b>, <b>Inteligência Artificial</b> e <b>Engenharia de Software</b>.<br><br>
+🔹 Gosto de resolver problemas reais utilizando programação, criando soluções eficientes e elegantes.<br><br>
+🔹 Em constante evolução profissional, sempre aprendendo e aprimorando competências técnicas e humanas.
+</p>
+
+<!-- Perfil -->
+
+<br>
+
+🎓 **Análise e Desenvolvimento de Sistemas** • 3º período  
+📊 **Analista de Dados**  
+🇧🇷 **Brasil**
+
+</div>
+
+---
+
+<!-- Tecnologias -->
+<div align="center">
+
+## 🛠️ Tecnologias
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=400&lines=Tecnologias%20que%20domino%20%E2%9C%A8" alt="Techs" />
+
+<br><br>
+
+<!-- Devicon Logos grandes -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin: 10px;" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin: 10px;" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" style="margin: 10px;" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60" style="margin: 10px;" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="margin: 10px;" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="margin: 10px;" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" style="margin: 10px;" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60" style="margin: 10px;" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60" style="margin: 10px;" />
+
+<br><br>
+
+</div>
+
+---
+
+<!-- Estou Aprendendo -->
+<div align="center">
+
+## 📚 Estou Aprendendo
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=400&lines=Apedendendo%20novas%20tecnologias%20%E2%9A%A1" alt="Learning" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2B6CB0" alt="SQL" />
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=2B6CB0" alt="Node.js" />
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=2B6CB0" alt="Next.js" />
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=2B6CB0" alt="Power BI" />
+
+<img src="https://img.shields.io/badge/Data%20Analytics-415A77?style=for-the-badge&logo=datadotjson&logoColor=white&labelColor=2B6CB0" alt="Data Analytics" />
+
+<img src="https://img.shields.io/badge/APIs%20REST-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=2B6CB0" alt="APIs REST" />
+
+</div>
+
+---
+
+<!-- Estatisticas GitHub -->
+<div align="center">
+
+## 📈 Estatísticas do GitHub
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=500&lines=Minhas%20contribui%C3%A7%C3%B5es%20e%20estat%C3%ADsticas%20%E2%9C%A8" alt="Stats" />
+
+<br><br>
+
+<!-- GitHub Stats Card -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=joaopaulogs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2B6CB0&icon_color=90CDF4&text_color=ffffff&count_private=true" alt="João Paulo's GitHub Stats" height="180" />
+
+<br><br>
+
+<!-- Top Languages Card -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulogs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2B6CB0&text_color=ffffff" alt="Top Languages" height="180" />
+
+<br><br>
+
+<!-- GitHub Streak Stats -->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopaulogs&theme=tokyonight&hide_border=true&background=0D1117&stroke=2B6CB0&ring=2B6CB0&fire=90CDF4&currStreakLabel=2B6CB0&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" height="180" />
+
+<br><br>
+
+<!-- Activity Graph -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaopaulogs&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=90CDF4&line=2B6CB0&point=ffffff&area=true&area_color=2B6CB0" alt="Activity Graph" width="90%" />
+
+<br><br>
+
+<!-- Contribution Snake Animation (ativo) -->
+
+<img src="https://raw.githubusercontent.com/joaopaulogs/joaopaulogs/output/github-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+
+<!-- 
+============================================================
+COMO ATIVAR A CONTRIBUTION SNAKE ANIMATION NOVAMENTE
+============================================================
+
+1. Crie um repositório com o mesmo nome do seu usuário (joaopaulogs/joaopaulogs) caso ainda não exista.
+2. Suba este README.md nesse repositório.
+3. Crie uma GitHub Action em .github/workflows/snake.yml que gere o SVG do snake
+   baseado no seu perfil (pode usar a action Platane/snk).
+4. Configure o workflow para gerar o arquivo na branch "output" do repositório,
+   nome do arquivo: github-snake-dark.svg
+5. Após a action rodar, a animação acima será atualizada automaticamente.
+6. Caso prefira outra paleta, troque por:
+   /github-snake.svg (tema claro) ou /github-snake-dark.svg (tema escuro).
+   sg regenere o workflow periodicamente via cron, ex:
+
+   on:
+     schedule:
+       - cron: "0 0 * * *"
+     workflow_dispatch:
+
+   Exemplo mínimo de .github/workflows/snake.yml no repo joaopaulogs/joaopaulogs:
+
+   name: Snake Animation
+   on:
+     schedule:
+       - cron: "0 0 * * *"
+     workflow_dispatch:
+   jobs:
+     build:
+       runs-on: ubuntu-latest
+       steps:
+         - name: Generate Snake
+           uses: Platane/snk@v3
+           with:
+             github_user_name: joaopaulogs
+             outputs: |
+               dist/github-snake.svg
+               dist/github-snake-dark.svg?palette=github-dark
+         - name: Push to output branch
+           uses: crazy-max/ghaction-github-pages@v3
+           with:
+             target_branch: output
+             build_dir: dist
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+============================================================
+-->
+
+</div>
+
+---
+
+<!-- Projetos em Destaque -->
+<div align="center">
+
+## 🚀 Projetos em Destaque
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=600&lines=Os%20meus%20principais%20projetos%20estar%C3%A3o%20dispon%C3%ADveis%20abaixo%20%E2%9C%A8" alt="Projetos" />
+
+<br>
+
+<p>Aqui estarão disponíveis os meus principais projetos, desenvolvidos com dedicação para demonstrar minhas habilidades práticas e meu aprendizado contínuo.</p>
+
+<br>
+
+<!-- 
+============================================================
+INSERIR PROJETOS AQUI
+============================================================
+
+Você pode listar seus projetos individualmente com cards personalizados,
+substituindo os comentários abaixo pelo conteúdo real. Exemplo de card:
+
+<a href="https://github.com/joaopaulogs/NOME_DO_REPOSITORIO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopaulogs&repo=NOME_DO_REPOSITORIO&theme=tokyonight&title_color=2B6CB0&icon_color=90CDF4&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Nome do Projeto" />
+</a>
+
+Repita o bloco acima para cada projeto que desejar destacar.
+============================================================
+-->
+
+<!-- Exemplo de card de projeto (substitua o nome do repo) -->
+
+<a href="https://github.com/joaopaulogs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopaulogs&repo=REPOSITORIO_1&theme=tokyonight&title_color=2B6CB0&icon_color=90CDF4&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Projeto 1" />
+</a>
+
+<a href="https://github.com/joaopaulogs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopaulogs&repo=REPOSITORIO_2&theme=tokyonight&title_color=2B6CB0&icon_color=90CDF4&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Projeto 2" />
+</a>
+
+<a href="https://github.com/joaopaulogs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopaulogs&repo=REPOSITORIO_3&theme=tokyonight&title_color=2B6CB0&icon_color=90CDF4&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Projeto 3" />
+</a>
+
+<a href="https://github.com/joaopaulogs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopaulogs&repo=REPOSITORIO_4&theme=tokyonight&title_color=2B6CB0&icon_color=90CDF4&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Projeto 4" />
+</a>
+
+</div>
+
+---
+
+<!-- Frase Inspiradora -->
+<div align="center">
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=600&lines=%22Transformando%20ideias%20em%20c%C3%B3digo%20e%20dados%20em%20decis%C3%B5es.%22" alt="Frase" />
+
+<br>
+
+<i>✨ "Transformando ideias em código e dados em decisões." ✨</i>
+
+</div>
+
+---
+
+<!-- Contato -->
+<div align="center">
+
+## 📫 Vamos nos Conectar
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=400&lines=Entre%20em%20contato%20comigo%20%F0%9F%92%AC" alt="Contato" />
+
+<br><br>
+
+<!-- LinkedIn -->
+
+<a href="https://www.linkedin.com/in/joãopaulogs" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2B6CB0" alt="LinkedIn" height="40" />
+</a>
+
+<!-- Instagram -->
+
+<a href="https://www.instagram.com/jp.gmss/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2B6CB0" alt="Instagram" height="40" />
+</a>
+
+<!-- Email -->
+
+<a href="mailto:sjpgomess2@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2B6CB0" alt="Email" height="40" />
+</a>
+
+<!-- Siga no GitHub -->
+
+<a href="https://github.com/joaopaulogs" target="_blank">
+  <img src="https://img.shields.io/badge/Siga%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2B6CB0" alt="Follow on GitHub" height="40" />
+</a>
+
+</div>
+
+---
+
+<!-- Profile Views Counter -->
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=joaopaulogs&color=2B6CB0&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
+
+<br>
+
+---
+
+<!-- Rodape com Wave Animation e agradecimento -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b6cb0,100:90cdf4&height=180&section=footer&fontSize=24&fontColor=ffffff&text=Obrigado%20pela%20visita!%20%F0%9F%99%8F" alt="Wave Footer" width="100%" />
+
+<br>
+
+<i>✨ Obrigado por visitar meu perfil! Vamos construir o futuro juntos. ✨</i>
+
+</div>
+
