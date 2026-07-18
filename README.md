@@ -1,7 +1,6 @@
 <!-- Cabecalho com Wave Animation e Banner -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/master/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b6cb0,100:90cdf4&height=180&section=header&text=Ol%C3%A1!%20Eu%20sou%20Jo%C3%A3o%20Paulo%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="Banner" width="100%" />
 
@@ -111,131 +110,12 @@
 
 </div>
 
----
-
-<!-- Estatisticas GitHub -->
-<div align="center">
-
-## 📈 Estatísticas do GitHub
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=500&lines=Minhas%20contribui%C3%A7%C3%B5es%20e%20estat%C3%ADsticas%20%E2%9C%A8" alt="Stats" />
-
-<br><br>
-
-<!-- GitHub Stats Card -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=joaopaulogs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2B6CB0&icon_color=90CDF4&text_color=ffffff&count_private=true" alt="João Paulo's GitHub Stats" height="180" />
-
-<br><br>
-
-<!-- Top Languages Card -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulogs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2B6CB0&text_color=ffffff" alt="Top Languages" height="180" />
-
-<br><br>
-
-<!-- GitHub Streak Stats -->
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopaulogs&theme=tokyonight&hide_border=true&background=0D1117&stroke=2B6CB0&ring=2B6CB0&fire=90CDF4&currStreakLabel=2B6CB0&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" height="180" />
-
-<br><br>
-
-<!-- Activity Graph -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaopaulogs&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=90CDF4&line=2B6CB0&point=ffffff&area=true&area_color=2B6CB0" alt="Activity Graph" width="90%" />
-
-<br><br>
-
-<!-- Contribution Snake Animation (ativo) -->
-
-<img src="https://raw.githubusercontent.com/joaopaulogs/joaopaulogs/output/github-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
-
-<!-- 
-============================================================
-COMO ATIVAR A CONTRIBUTION SNAKE ANIMATION NOVAMENTE
-============================================================
-
-1. Crie um repositório com o mesmo nome do seu usuário (joaopaulogs/joaopaulogs) caso ainda não exista.
-2. Suba este README.md nesse repositório.
-3. Crie uma GitHub Action em .github/workflows/snake.yml que gere o SVG do snake
-   baseado no seu perfil (pode usar a action Platane/snk).
-4. Configure o workflow para gerar o arquivo na branch "output" do repositório,
-   nome do arquivo: github-snake-dark.svg
-5. Após a action rodar, a animação acima será atualizada automaticamente.
-6. Caso prefira outra paleta, troque por:
-   /github-snake.svg (tema claro) ou /github-snake-dark.svg (tema escuro).
-   sg regenere o workflow periodicamente via cron, ex:
-
-   on:
-     schedule:
-       - cron: "0 0 * * *"
-     workflow_dispatch:
-
-   Exemplo mínimo de .github/workflows/snake.yml no repo joaopaulogs/joaopaulogs:
-
-   name: Snake Animation
-   on:
-     schedule:
-       - cron: "0 0 * * *"
-     workflow_dispatch:
-   jobs:
-     build:
-       runs-on: ubuntu-latest
-       steps:
-         - name: Generate Snake
-           uses: Platane/snk@v3
-           with:
-             github_user_name: joaopaulogs
-             outputs: |
-               dist/github-snake.svg
-               dist/github-snake-dark.svg?palette=github-dark
-         - name: Push to output branch
-           uses: crazy-max/ghaction-github-pages@v3
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-============================================================
--->
-
-</div>
-
----
-
-<!-- Projetos em Destaque -->
-<div align="center">
-
-## 🚀 Projetos em Destaque
 
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=600&lines=Os%20meus%20principais%20projetos%20estar%C3%A3o%20dispon%C3%ADveis%20abaixo%20%E2%9C%A8" alt="Projetos" />
 
 <br>
-
-<p>Aqui estarão disponíveis os meus principais projetos, desenvolvidos com dedicação para demonstrar minhas habilidades práticas e meu aprendizado contínuo.</p>
-
-<br>
-
-<!-- 
-============================================================
-INSERIR PROJETOS AQUI
-============================================================
-
-Você pode listar seus projetos individualmente com cards personalizados,
-substituindo os comentários abaixo pelo conteúdo real. Exemplo de card:
-
-<a href="https://github.com/joaopaulogs/NOME_DO_REPOSITORIO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaopaulogs&repo=NOME_DO_REPOSITORIO&theme=tokyonight&title_color=2B6CB0&icon_color=90CDF4&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Nome do Projeto" />
-</a>
-
-Repita o bloco acima para cada projeto que desejar destacar.
-============================================================
--->
-
 <!-- Exemplo de card de projeto (substitua o nome do repo) -->
 
 <a href="https://github.com/joaopaulogs">
