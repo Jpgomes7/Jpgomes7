@@ -20,7 +20,6 @@
 
 ## 👨‍💻 Sobre Mim
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=700&lines=Ol%C3%A1!%20Sou%20Jo%C3%A3o%20Paulo%20%F0%9F%91%8B" alt="Hello" />
 
 </div>
 
