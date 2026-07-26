@@ -101,10 +101,6 @@
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=2B6CB0" alt="Next.js" />
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=2B6CB0" alt="Power BI" />
-
-<img src="https://img.shields.io/badge/Data%20Analytics-415A77?style=for-the-badge&logo=datadotjson&logoColor=white&labelColor=2B6CB0" alt="Data Analytics" />
-
 <img src="https://img.shields.io/badge/APIs%20REST-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=2B6CB0" alt="APIs REST" />
 
 </div>
