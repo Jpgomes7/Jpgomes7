@@ -30,7 +30,7 @@
 <p>
 🔹 Apaixonado por tecnologia, acreditando no seu poder de transformar ideias e impacto real na sociedade.<br><br>
 🔹 Sempre em constante estudo de novas tecnologias, buscando me manter atualizado com tendências do mercado.<br><br>
-🔹 Tenho interesse em <b>Desenvolvimento Web</b>, <b>Análise de Dados</b>, <b>Inteligência Artificial</b> e <b>Engenharia de Software</b>.<br><br>
+🔹 Tenho interesse em <b>Análise de Dados</b>, <b>Inteligência Artificial</b> e <b>Engenharia de Software</b>.<br><br>
 🔹 Gosto de resolver problemas reais utilizando programação, criando soluções eficientes e elegantes.<br><br>
 🔹 Em constante evolução profissional, sempre aprendendo e aprimorando competências técnicas e humanas.
 </p>
