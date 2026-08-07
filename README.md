@@ -18,7 +18,7 @@
 <!-- Sobre Mim -->
 <div align="center">
 
-## 👨‍💻 Sobre Mim
+##  Sobre Mim
 
 
 </div>
@@ -39,8 +39,8 @@
 
 <br>
 
-🎓 **Análise e Desenvolvimento de Sistemas** • 3º período  
-📊 **Analista de Dados**  
+ **Análise e Desenvolvimento de Sistemas** • 3º período  
+ **Analista de Dados**  
 🇧🇷 **Brasil**
 
 </div>
@@ -87,7 +87,7 @@
 <!-- Estou Aprendendo -->
 <div align="center">
 
-## 📚 Estou Aprendendo
+##  Estou Aprendendo
 
 <br>
 
@@ -122,7 +122,7 @@
 
 <br>
 
-<i>✨ "Transformando ideias em código e dados em decisões." ✨</i>
+<i> "Transformando ideias em código e dados em decisões." </i>
 
 </div>
 
@@ -131,7 +131,7 @@
 <!-- Contato -->
 <div align="center">
 
-## 📫 Vamos nos Conectar
+##  Vamos nos Conectar
 
 <br>
 
