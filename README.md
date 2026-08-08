@@ -50,11 +50,11 @@
 <!-- Tecnologias -->
 <div align="center">
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=400&lines=Tecnologias%20que%20tenho%20noções%20%E2%9C%A8" alt="Techs" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=400&lines=Tecnologias%20que%20tenho%20noções" alt="Techs" />
 
 <br><br>
 
@@ -78,6 +78,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60" style="margin: 10px;" />
 
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2B6CB0" alt="SQL" />
+
 <br><br>
 
 </div>
@@ -91,7 +93,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=400&lines=Aprendendo%20novas%20tecnologias%20%E2%9A%A1" alt="Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=400&lines=Aprendendo%20novas%20tecnologias" alt="Learning" />
 
 <br><br> 
 
@@ -186,7 +188,7 @@
 
 <br>
 
-<i>✨ Obrigado por visitar meu perfil! Vamos construir o futuro juntos. ✨</i>
+<i> Obrigado por visitar meu perfil! Vamos construir o futuro juntos. </i>
 
 </div>
 
