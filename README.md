@@ -9,7 +9,7 @@
 <!-- Typing SVG -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=900&lines=Analista%20de%20Dados%20%F0%9F%93%8A;Desenvolvedor%20em%20Forma%C3%A7%C3%A3o%20%F0%9F%92%BB;Brasil%20%F0%9F%87%A7%F0%9F%87%B7;Apaixonado%20por%20Tecnologia%20%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2B6CB0&center=true&vCenter=true&random=false&width=900&lines=Analista%20de%20Dados%20;Desenvolvedor%20em%20Forma%C3%A7%C3%A3o%20%F0%9F%92%BB;Brasil%20%F0%9F%87%A7%F0%9F%87%B7;Apaixonado%20por%20Tecnologia%20" alt="Typing SVG" />
 
 </div>
 
