@@ -1,8 +1,8 @@
-<!-- Cabecalho com Wave Animation e Banner -->
+          <!-- Cabecalho com Wave Animation e Banner -->
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b6cb0,100:90cdf4&height=180&section=header&text=Ol%C3%A1!%20Eu%20sou%20Jo%C3%A3o%20Paulo%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b6cb0,100:90cdf4&height=180&section=header&text=Ol%C3%A1!%20Eu%20sou%20Jo%C3%A3o%20Paulo&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="Banner" width="100%" />
 
 </div>
 
