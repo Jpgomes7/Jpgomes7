@@ -94,7 +94,6 @@
 
 <br><br> 
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2B6CB0" alt="SQL" />
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=2B6CB0" alt="Node.js" />
 
