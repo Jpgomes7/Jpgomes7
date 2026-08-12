@@ -1,4 +1,4 @@
-          <!-- Cabecalho com Wave Animation e Banner -->
+
 <div align="center">
 
 
